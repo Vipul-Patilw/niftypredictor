@@ -13,3 +13,4 @@ abc.txt
 venv/
 tests.py
 test2.py
+node_modules/
