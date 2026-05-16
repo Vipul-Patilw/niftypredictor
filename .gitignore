@@ -1,0 +1,15 @@
+# Default ignored files
+__pycache__/
+niftypredictor/settings.py
+niftypredictor/config.py
+*.txt
+bin/
+media/
+myvenv/
+abc.txt
+# static/
+.vscode/
+.python-version
+venv/
+tests.py
+test2.py
